@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -30,22 +30,20 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Dice Biasy",
   "resources":[
     {"id":{"name":"fnt_header","path":"fonts/fnt_header/fnt_header.yy",},},
-    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
-    {"id":{"name":"obj_die","path":"objects/obj_die/obj_die.yy",},},
-    {"id":{"name":"roo_main","path":"rooms/roo_main/roo_main.yy",},},
-    {"id":{"name":"scr_random","path":"scripts/scr_random/scr_random.yy",},},
-    {"id":{"name":"spr_dice","path":"sprites/spr_dice/spr_dice.yy",},},
-    {"id":{"name":"spr_diceSheet","path":"sprites/spr_diceSheet/spr_diceSheet.yy",},},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
+    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
+    {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
+    {"id":{"name":"ts_floor","path":"tilesets/ts_floor/ts_floor.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"roo_main","path":"rooms/roo_main/roo_main.yy",},},
+    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

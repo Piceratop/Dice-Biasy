@@ -17,7 +17,6 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_controller","order":1,"path":"objects/obj_controller/obj_controller.yy",},
-    {"name":"spr_dice","order":1,"path":"sprites/spr_dice/spr_dice.yy",},
+    {"name":"spr_floor","order":2,"path":"sprites/spr_floor/spr_floor.yy",},
   ],
 }
